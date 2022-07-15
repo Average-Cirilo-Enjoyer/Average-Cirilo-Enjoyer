@@ -2,7 +2,7 @@
 
 ## Languages:
 - C#: i know something about it
-- Typescript/Javascript: trying to learn
+- Rust: trying to learn
 
 ## Front end
 - Html and css: working on it too.
